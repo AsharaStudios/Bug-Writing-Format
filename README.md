@@ -1,4 +1,4 @@
-# Bug-Wrinting-Format
+# Bug-Writing-Format
 
 Formato de reporte de bug para empresas de vídeo juegos.
 ## Disponible en
